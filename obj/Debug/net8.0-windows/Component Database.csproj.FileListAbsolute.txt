@@ -1,0 +1,16 @@
+C:\Users\juddf\Desktop\Component Database\Component Database\bin\Debug\net8.0-windows\Component Database.exe
+C:\Users\juddf\Desktop\Component Database\Component Database\bin\Debug\net8.0-windows\Component Database.deps.json
+C:\Users\juddf\Desktop\Component Database\Component Database\bin\Debug\net8.0-windows\Component Database.runtimeconfig.json
+C:\Users\juddf\Desktop\Component Database\Component Database\bin\Debug\net8.0-windows\Component Database.dll
+C:\Users\juddf\Desktop\Component Database\Component Database\bin\Debug\net8.0-windows\Component Database.pdb
+C:\Users\juddf\Desktop\Component Database\Component Database\obj\Debug\net8.0-windows\Component_Database.Form1.resources
+C:\Users\juddf\Desktop\Component Database\Component Database\obj\Debug\net8.0-windows\Component Database.csproj.GenerateResource.cache
+C:\Users\juddf\Desktop\Component Database\Component Database\obj\Debug\net8.0-windows\Component Database.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juddf\Desktop\Component Database\Component Database\obj\Debug\net8.0-windows\Component Database.AssemblyInfoInputs.cache
+C:\Users\juddf\Desktop\Component Database\Component Database\obj\Debug\net8.0-windows\Component Database.AssemblyInfo.cs
+C:\Users\juddf\Desktop\Component Database\Component Database\obj\Debug\net8.0-windows\Component Database.csproj.CoreCompileInputs.cache
+C:\Users\juddf\Desktop\Component Database\Component Database\obj\Debug\net8.0-windows\Component Database.dll
+C:\Users\juddf\Desktop\Component Database\Component Database\obj\Debug\net8.0-windows\refint\Component Database.dll
+C:\Users\juddf\Desktop\Component Database\Component Database\obj\Debug\net8.0-windows\Component Database.pdb
+C:\Users\juddf\Desktop\Component Database\Component Database\obj\Debug\net8.0-windows\Component Database.genruntimeconfig.cache
+C:\Users\juddf\Desktop\Component Database\Component Database\obj\Debug\net8.0-windows\ref\Component Database.dll
