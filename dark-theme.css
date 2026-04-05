@@ -1,0 +1,83 @@
+:root {
+    --text-color: #bbb;
+    --background-color: #020202;
+    --border-color: #555;
+}
+
+body {
+    background-color: var(--background-color);
+    color: var(--text-color);
+}
+
+.topbar h2,
+.topbar button,
+.topbar input {
+    color: var(--text-color);
+}
+
+.topbar input {
+    background-color: #222;
+    border: 1px solid #444;
+    color: var(--text-color);
+}
+
+button {
+    background-color: var(--background-color);
+    color: var(--text-color);
+    border: 1px solid var(--border-color);
+}
+
+/* Table cells */
+.htCore td {
+    background-color: var(--background-color);
+    color: var(--text-color);
+}
+
+/* Table headers */
+.htCore th {
+    background-color: var(--background-color);
+    color: var(--text-color);
+    border-bottom: 1px solid var(--border-color);
+}
+
+/* Selected row header */
+.ht_clone_left .ht__highlight {
+    background-color: var(--background-color) !important;
+    /* dark gray */
+    color: var(--text-color) !important;
+    /* text color */
+}
+
+/* Selected column header */
+.ht_clone_top .ht__highlight {
+    background-color: var(--background-color) !important;
+    color: var(--text-color) !important;
+}
+
+/* Selected row highlight */
+.htCore .currentRow,
+.htCore .currentCol {
+    background-color: var(--background-color) !important;
+}
+
+/* Table borders */
+#hot .ht_master .wtBorder,
+#hot .ht_master .htCore td,
+#hot .ht_master .htCore th,
+#hot .ht_clone_top .htCore th,
+#hot .ht_clone_top_left_corner .htCore th,
+#hot .ht_clone_left .htCore th {
+    border-color: var(--border-color) !important;
+    /* darken borders */
+}
+
+/* Context menu / dropdown menu (if used) */
+.handsontable .htDropdownMenu,
+.handsontable .htContextMenu {
+    background-color: var(--background-color);
+    color: var(--text-color);
+}
+
+input::placeholder {
+    color: var(--text-color);
+}

@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <title>Judd's Lab</title>
+    <script src="https://cdn.jsdelivr.net/npm/handsontable@14.3.0/dist/handsontable.full.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/fuse.js@6.6.2"></script>
+    <link rel="stylesheet" href="stylesheet.css" />
+    <link rel="stylesheet" href="dark-theme.css" />
+</head>
+
+<body>
+
+    <div class="topbar">
+        <h1>Judd's Lab</h1>
+    </div>
+    <div class="topbar">
+        <input type="text" id="searchBox" placeholder="Search parts" style="width: auto;">
+        <button onclick="clearSearch()">Clear</button>
+    </div>
+
+    <div class="card-container" id="cardContainer">
+        <div class="card-stack" id="cardStack">
+            <!-- Cards injected here by JS -->
+        </div>
+        <div class="card-counter" id="cardCounter"></div>
+    </div>
+
+    <div class="overlay" id="overlay">
+        <img id="overlayImage" src="" alt="">
+    </div>
+
+    <script src="script.js"></script>
+
+</body>
+
+</html>

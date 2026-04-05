@@ -1,0 +1,1442 @@
+[
+    {
+        "Name": "",
+        "Manufacturer": "W\u00fcrth Elektronik",
+        "Manufacturer Part Number": "760390014",
+        "Location": "Aidetek Box 7",
+        "SubLocation": "A1",
+        "Image": "img/aidetek_a1.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "Rohm Semiconductor",
+        "Manufacturer Part Number": "ESR03EZPJ102",
+        "Location": "Aidetek Box 7",
+        "SubLocation": "B1",
+        "Image": "img/aidetek_b1.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "Kemet",
+        "Manufacturer Part Number": "C0603C472K5RACTU",
+        "Location": "Aidetek Box 7",
+        "SubLocation": "C1",
+        "Image": "img/aidetek_c1.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "Abracon",
+        "Manufacturer Part Number": "ABM8G-12.000MHZ-4Y-T3",
+        "Location": "Aidetek Box 7",
+        "SubLocation": "D1",
+        "Image": "img/aidetek_d1.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "Panasonic",
+        "Manufacturer Part Number": "ERJ-6ENF8660V",
+        "Location": "Aidetek Box 7",
+        "SubLocation": "E1",
+        "Image": "img/aidetek_e1.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "Yageo",
+        "Manufacturer Part Number": "RC0603FR-0710KL",
+        "Location": "Aidetek Box 7",
+        "SubLocation": "F1",
+        "Image": "img/aidetek_f1.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "TE Connectivity",
+        "Manufacturer Part Number": "1825910-6",
+        "Location": "Aidetek Box 7",
+        "SubLocation": "G1",
+        "Image": "img/aidetek_g1.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "Yageo",
+        "Manufacturer Part Number": "RC0603FR-0747KL",
+        "Location": "Aidetek Box 7",
+        "SubLocation": "H1",
+        "Image": "img/aidetek_h1.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "Stackpole Electronics",
+        "Manufacturer Part Number": "RMCF0603JT82R0",
+        "Location": "Aidetek Box 7",
+        "SubLocation": "I1",
+        "Image": "img/aidetek_i1.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "Stackpole Electronics",
+        "Manufacturer Part Number": "RMCF0805FT475K",
+        "Location": "Aidetek Box 7",
+        "SubLocation": "J1",
+        "Image": "img/aidetek_j1.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "Yageo",
+        "Manufacturer Part Number": "RC0805JR-072K2L",
+        "Location": "Aidetek Box 7",
+        "SubLocation": "K1",
+        "Image": "img/aidetek_k1.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "Susumu",
+        "Manufacturer Part Number": "RNCP0805FTD18K2",
+        "Location": "Aidetek Box 7",
+        "SubLocation": "L1",
+        "Image": "img/aidetek_l1.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "Yageo",
+        "Manufacturer Part Number": "RC0603FR-0710KL",
+        "Location": "Aidetek Box 7",
+        "SubLocation": "A2",
+        "Image": "img/aidetek_a2.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "Samsung Electro-Mechanics",
+        "Manufacturer Part Number": "CL10B103KB8NNNC",
+        "Location": "Aidetek Box 7",
+        "SubLocation": "B2",
+        "Image": "img/aidetek_b2.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "Stackpole Electronics",
+        "Manufacturer Part Number": "RMCF0603ZT0R00",
+        "Location": "Aidetek Box 7",
+        "SubLocation": "C2",
+        "Image": "img/aidetek_c2.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "Vishay",
+        "Manufacturer Part Number": "CRGCQ0603F150R",
+        "Location": "Aidetek Box 7",
+        "SubLocation": "D2",
+        "Image": "img/aidetek_d2.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "Murata",
+        "Manufacturer Part Number": "GJM1555C1HR30BB01D",
+        "Location": "Aidetek Box 7",
+        "SubLocation": "E2",
+        "Image": "img/aidetek_e2.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "Yageo",
+        "Manufacturer Part Number": "CC0603JRNP09BN180",
+        "Location": "Aidetek Box 7",
+        "SubLocation": "F2",
+        "Image": "img/aidetek_f2.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "Panasonic",
+        "Manufacturer Part Number": "ERJ-2GEYJ225V",
+        "Location": "Aidetek Box 7",
+        "SubLocation": "G2",
+        "Image": "img/aidetek_g2.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "Samsung Electro-Mechanics",
+        "Manufacturer Part Number": "CL31B106MOHNNNE",
+        "Location": "Aidetek Box 7",
+        "SubLocation": "H2",
+        "Image": "img/aidetek_h2.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "Yageo",
+        "Manufacturer Part Number": "RC0805JR-071ML",
+        "Location": "Aidetek Box 7",
+        "SubLocation": "I2",
+        "Image": "img/aidetek_i2.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "Rohm Semiconductor",
+        "Manufacturer Part Number": "ESR03EZPJ121",
+        "Location": "Aidetek Box 7",
+        "SubLocation": "J2",
+        "Image": "img/aidetek_j2.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "Susumu",
+        "Manufacturer Part Number": "RR0816P-101-D",
+        "Location": "Aidetek Box 7",
+        "SubLocation": "K2",
+        "Image": "img/aidetek_k2.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "Yageo",
+        "Manufacturer Part Number": "RC0805FR-07191KL",
+        "Location": "Aidetek Box 7",
+        "SubLocation": "L2",
+        "Image": "img/aidetek_l2.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "Panasonic",
+        "Manufacturer Part Number": "ERJ-6GEYJ471V",
+        "Location": "Aidetek Box 7",
+        "SubLocation": "A3",
+        "Image": "img/aidetek_a3.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "AVX (KYOCERA)",
+        "Manufacturer Part Number": "08055C104KAT2A",
+        "Location": "Aidetek Box 7",
+        "SubLocation": "B3",
+        "Image": "img/aidetek_b3.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "Stackpole Electronics",
+        "Manufacturer Part Number": "RMCF0603FT5K62",
+        "Location": "Aidetek Box 7",
+        "SubLocation": "C3",
+        "Image": "img/aidetek_c3.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "Vishay",
+        "Manufacturer Part Number": "CRGCQ0603J330R",
+        "Location": "Aidetek Box 7",
+        "SubLocation": "D3",
+        "Image": "img/aidetek_d3.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "W\u00fcrth Elektronik",
+        "Manufacturer Part Number": "74479887310A",
+        "Location": "Aidetek Box 7",
+        "SubLocation": "E3",
+        "Image": "img/aidetek_e3.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "Susumu",
+        "Manufacturer Part Number": "RNCF0805DTE10K0",
+        "Location": "Aidetek Box 7",
+        "SubLocation": "F3",
+        "Image": "img/aidetek_f3.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "Stackpole Electronics",
+        "Manufacturer Part Number": "RMCF0603FT6K20",
+        "Location": "Aidetek Box 7",
+        "SubLocation": "G3",
+        "Image": "img/aidetek_g3.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "Murata",
+        "Manufacturer Part Number": "GCM155R71H103KA55D",
+        "Location": "Aidetek Box 7",
+        "SubLocation": "H3",
+        "Image": "img/aidetek_h3.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "ECS Inc.",
+        "Manufacturer Part Number": "ECS-80-18-30B-JEM-TR",
+        "Location": "Aidetek Box 7",
+        "SubLocation": "I3",
+        "Image": "img/aidetek_i3.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "Yageo",
+        "Manufacturer Part Number": "RC0603FR-075K62L",
+        "Location": "Aidetek Box 7",
+        "SubLocation": "J3",
+        "Image": "img/aidetek_j3.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "Yageo",
+        "Manufacturer Part Number": "CC0603JRNP09BN100",
+        "Location": "Aidetek Box 7",
+        "SubLocation": "K3",
+        "Image": "img/aidetek_k3.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "Vishay",
+        "Manufacturer Part Number": "CRGP0805F270R",
+        "Location": "Aidetek Box 7",
+        "SubLocation": "L3",
+        "Image": "img/aidetek_l3.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "Panasonic",
+        "Manufacturer Part Number": "ERA-6AEB473V",
+        "Location": "Aidetek Box 7",
+        "SubLocation": "A4",
+        "Image": "img/aidetek_a4.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "Kemet",
+        "Manufacturer Part Number": "C0805C106K8PACTU",
+        "Location": "Aidetek Box 7",
+        "SubLocation": "B4",
+        "Image": "img/aidetek_b4.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "Stackpole Electronics",
+        "Manufacturer Part Number": "RMCF0402FT150K",
+        "Location": "Aidetek Box 7",
+        "SubLocation": "C4",
+        "Image": "img/aidetek_c4.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "Samsung Electro-Mechanics",
+        "Manufacturer Part Number": "CL10B105M08NNWC",
+        "Location": "Aidetek Box 7",
+        "SubLocation": "D4",
+        "Image": "img/aidetek_d4.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "Yageo",
+        "Manufacturer Part Number": "RT0603FRE071ML",
+        "Location": "Aidetek Box 7",
+        "SubLocation": "E4",
+        "Image": "img/aidetek_e4.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "Samsung Electro-Mechanics",
+        "Manufacturer Part Number": "CL10A105KP8NNNC",
+        "Location": "Aidetek Box 7",
+        "SubLocation": "F4",
+        "Image": "img/aidetek_f4.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "Yageo",
+        "Manufacturer Part Number": "RC0603FR-071KL",
+        "Location": "Aidetek Box 7",
+        "SubLocation": "G4",
+        "Image": "img/aidetek_g4.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "Kemet",
+        "Manufacturer Part Number": "C0805C106M3PAC7800",
+        "Location": "Aidetek Box 7",
+        "SubLocation": "H4",
+        "Image": "img/aidetek_h4.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "Diodes Incorporated",
+        "Manufacturer Part Number": "SBRT10U50SP5-13D",
+        "Location": "Aidetek Box 7",
+        "SubLocation": "I4",
+        "Image": "img/aidetek_i4.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "STMicroelectronics",
+        "Manufacturer Part Number": "LM2903Q2T",
+        "Location": "Aidetek Box 7",
+        "SubLocation": "J4",
+        "Image": "img/aidetek_j4.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "onsemi",
+        "Manufacturer Part Number": "FODM217A",
+        "Location": "Aidetek Box 7",
+        "SubLocation": "K4",
+        "Image": "img/aidetek_k4.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "Yageo",
+        "Manufacturer Part Number": "RC0805FR-071KL",
+        "Location": "Aidetek Box 7",
+        "SubLocation": "L4",
+        "Image": "img/aidetek_l4.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "Yageo",
+        "Manufacturer Part Number": "CC0603KRX7R9BB153",
+        "Location": "Aidetek Box 7",
+        "SubLocation": "A5",
+        "Image": "img/aidetek_a5.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "Vishay",
+        "Manufacturer Part Number": "CRGH0603J100R",
+        "Location": "Aidetek Box 7",
+        "SubLocation": "B5",
+        "Image": "img/aidetek_b5.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "AVX (KYOCERA)",
+        "Manufacturer Part Number": "06031C471K4T2A",
+        "Location": "Aidetek Box 7",
+        "SubLocation": "C5",
+        "Image": "img/aidetek_c5.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "Nexperia",
+        "Manufacturer Part Number": "74HC595PW,118",
+        "Location": "Aidetek Box 7",
+        "SubLocation": "D5",
+        "Image": "img/aidetek_d5.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "Microchip Technology",
+        "Manufacturer Part Number": "ATTINY4-TSHR",
+        "Location": "Aidetek Box 7",
+        "SubLocation": "E5",
+        "Image": "img/aidetek_e5.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "Diodes Incorporated",
+        "Manufacturer Part Number": "ZLDO1117QG33TA",
+        "Location": "Aidetek Box 7",
+        "SubLocation": "F5",
+        "Image": "img/aidetek_f5.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "onsemi",
+        "Manufacturer Part Number": "NST3906F3T5G",
+        "Location": "Aidetek Box 7",
+        "SubLocation": "G5",
+        "Image": "img/aidetek_g5.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "Samsung Electro-Mechanics",
+        "Manufacturer Part Number": "CL05A105KP5NNNC",
+        "Location": "Aidetek Box 7",
+        "SubLocation": "H5",
+        "Image": "img/aidetek_h5.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "Panasonic",
+        "Manufacturer Part Number": "ERJ-3EKF3901V",
+        "Location": "Aidetek Box 7",
+        "SubLocation": "I5",
+        "Image": "img/aidetek_i5.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "Yageo",
+        "Manufacturer Part Number": "RC0402FR-0722RL",
+        "Location": "Aidetek Box 7",
+        "SubLocation": "J5",
+        "Image": "img/aidetek_j5.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "Kemet",
+        "Manufacturer Part Number": "C0805C104M5TACTU",
+        "Location": "Aidetek Box 7",
+        "SubLocation": "K5",
+        "Image": "img/aidetek_k5.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "Yageo",
+        "Manufacturer Part Number": "RC0603FR-07100RL",
+        "Location": "Aidetek Box 7",
+        "SubLocation": "L5",
+        "Image": "img/aidetek_l5.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "Yageo",
+        "Manufacturer Part Number": "RC0603FR-0710RL",
+        "Location": "Aidetek Box 7",
+        "SubLocation": "A6",
+        "Image": "img/aidetek_a6.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "Comchip Technology",
+        "Manufacturer Part Number": "CDBQC0530L-HF",
+        "Location": "Aidetek Box 7",
+        "SubLocation": "B6",
+        "Image": "img/aidetek_b6.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "Microchip Technology",
+        "Manufacturer Part Number": "MCP6002-I/MS",
+        "Location": "Aidetek Box 7",
+        "SubLocation": "C6",
+        "Image": "img/aidetek_c6.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "Microchip Technology",
+        "Manufacturer Part Number": "MICRF114T-I/OT",
+        "Location": "Aidetek Box 7",
+        "SubLocation": "D6",
+        "Image": "img/aidetek_d6.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "Infineon Technologies",
+        "Manufacturer Part Number": "BB2451L7804E402",
+        "Location": "Aidetek Box 7",
+        "SubLocation": "E6",
+        "Image": "img/aidetek_e6.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "Kemet",
+        "Manufacturer Part Number": "C0603C222K5RACTU",
+        "Location": "Aidetek Box 7",
+        "SubLocation": "F6",
+        "Image": "img/aidetek_f6.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "Yageo",
+        "Manufacturer Part Number": "AC0805FR-07150KL",
+        "Location": "Aidetek Box 7",
+        "SubLocation": "G6",
+        "Image": "img/aidetek_g6.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "Yageo",
+        "Manufacturer Part Number": "RC0603FR-074K75L",
+        "Location": "Aidetek Box 7",
+        "SubLocation": "H6",
+        "Image": "img/aidetek_h6.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "Murata",
+        "Manufacturer Part Number": "CGQ1555C1H4R8CB01D",
+        "Location": "Aidetek Box 7",
+        "SubLocation": "I6",
+        "Image": "img/aidetek_i6.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "Yageo",
+        "Manufacturer Part Number": "RC0603FR-07140KL",
+        "Location": "Aidetek Box 7",
+        "SubLocation": "J6",
+        "Image": "img/aidetek_j6.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "Renesas Electronics",
+        "Manufacturer Part Number": "IDT2309",
+        "Location": "Aidetek Box 7",
+        "SubLocation": "K6",
+        "Image": "img/aidetek_k6.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "TDK",
+        "Manufacturer Part Number": "MLZ2012E4R7MT000",
+        "Location": "Aidetek Box 7",
+        "SubLocation": "L6",
+        "Image": "img/aidetek_l6.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "Stackpole Electronics",
+        "Manufacturer Part Number": "RMCF0402JT27R0",
+        "Location": "Aidetek Box 7",
+        "SubLocation": "A7",
+        "Image": "img/aidetek_a7.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "Microchip Technology",
+        "Manufacturer Part Number": "MCP1640CT-I/MC",
+        "Location": "Aidetek Box 7",
+        "SubLocation": "B7",
+        "Image": "img/aidetek_b7.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "Samsung Electro-Mechanics",
+        "Manufacturer Part Number": "CL10B104KB8NNNC",
+        "Location": "Aidetek Box 7",
+        "SubLocation": "C7",
+        "Image": "img/aidetek_c7.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "Yageo",
+        "Manufacturer Part Number": "CC0402BRNP09BN2R4",
+        "Location": "Aidetek Box 7",
+        "SubLocation": "D7",
+        "Image": "img/aidetek_d7.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "Susumu",
+        "Manufacturer Part Number": "RR0816P-111-D",
+        "Location": "Aidetek Box 7",
+        "SubLocation": "E7",
+        "Image": "img/aidetek_e7.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "Yageo",
+        "Manufacturer Part Number": "CC0603KRX7R9BB103",
+        "Location": "Aidetek Box 7",
+        "SubLocation": "F7",
+        "Image": "img/aidetek_f7.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "Stackpole Electronics",
+        "Manufacturer Part Number": "RMCF0603JT5K10",
+        "Location": "Aidetek Box 7",
+        "SubLocation": "G7",
+        "Image": "img/aidetek_g7.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "Yageo",
+        "Manufacturer Part Number": "RC0603FR-07100KL",
+        "Location": "Aidetek Box 7",
+        "SubLocation": "H7",
+        "Image": "img/aidetek_h7.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "Kemet",
+        "Manufacturer Part Number": "C0603C104Z3VACTU",
+        "Location": "Aidetek Box 7",
+        "SubLocation": "I7",
+        "Image": "img/aidetek_i7.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "Vishay",
+        "Manufacturer Part Number": "CRGCQ0603F150R",
+        "Location": "Aidetek Box 7",
+        "SubLocation": "J7",
+        "Image": "img/aidetek_j7.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "Abracon",
+        "Manufacturer Part Number": "ANT1204F002R0433A",
+        "Location": "Aidetek Box 7",
+        "SubLocation": "K7",
+        "Image": "img/aidetek_k7.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "Murata",
+        "Manufacturer Part Number": "GRM155R71E104KE14J",
+        "Location": "Aidetek Box 7",
+        "SubLocation": "L7",
+        "Image": "img/aidetek_l7.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "Nexperia",
+        "Manufacturer Part Number": "BUK9Y6R0-60E.115",
+        "Location": "Aidetek Box 7",
+        "SubLocation": "A8",
+        "Image": "img/aidetek_a8.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "Micro Commercial Components (MCC)",
+        "Manufacturer Part Number": "MB6S",
+        "Location": "Aidetek Box 7",
+        "SubLocation": "B8",
+        "Image": "img/aidetek_b8.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "Yageo",
+        "Manufacturer Part Number": "RC0603FR-07100KL",
+        "Location": "Aidetek Box 7",
+        "SubLocation": "C8",
+        "Image": "img/aidetek_c8.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "Yageo",
+        "Manufacturer Part Number": "RC0603FR-0710KL",
+        "Location": "Aidetek Box 7",
+        "SubLocation": "D8",
+        "Image": "img/aidetek_d8.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "Panasonic",
+        "Manufacturer Part Number": "ERA-6AEB104V",
+        "Location": "Aidetek Box 7",
+        "SubLocation": "E8",
+        "Image": "img/aidetek_e8.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "Yageo",
+        "Manufacturer Part Number": "RC0603JR-070RL",
+        "Location": "Aidetek Box 7",
+        "SubLocation": "F8",
+        "Image": "img/aidetek_f8.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "Yageo",
+        "Manufacturer Part Number": "RC0402FR-071K5L",
+        "Location": "Aidetek Box 7",
+        "SubLocation": "G8",
+        "Image": "img/aidetek_g8.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "Samsung Electro-Mechanics",
+        "Manufacturer Part Number": "CL10B105MO8NNWC",
+        "Location": "Aidetek Box 7",
+        "SubLocation": "H8",
+        "Image": "img/aidetek_h8.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "Texas Instruments",
+        "Manufacturer Part Number": "INA240A4DR",
+        "Location": "Aidetek Box 7",
+        "SubLocation": "I8",
+        "Image": "img/aidetek_i8.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "STMicroelectronics",
+        "Manufacturer Part Number": "STD44N4FL6",
+        "Location": "Aidetek Box 7",
+        "SubLocation": "J8",
+        "Image": "img/aidetek_j8.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "Toshiba",
+        "Manufacturer Part Number": "TLP265J(V4-TPR,E",
+        "Location": "Aidetek Box 7",
+        "SubLocation": "K8",
+        "Image": "img/aidetek_k8.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "STMicroelectronics",
+        "Manufacturer Part Number": "T410-600B-TR",
+        "Location": "Aidetek Box 7",
+        "SubLocation": "L8",
+        "Image": "img/aidetek_l8.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "STMicroelectronics",
+        "Manufacturer Part Number": "T410-600B-TR",
+        "Location": "Aidetek Box 7",
+        "SubLocation": "A9",
+        "Image": "img/aidetek_a9.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "STMicroelectronics",
+        "Manufacturer Part Number": "T410-600B-TR",
+        "Location": "Aidetek Box 7",
+        "SubLocation": "B9",
+        "Image": "img/aidetek_b9.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "Microchip Technology",
+        "Manufacturer Part Number": "MIC28511-1YFL-T5",
+        "Location": "Aidetek Box 7",
+        "SubLocation": "C9",
+        "Image": "img/aidetek_c9.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "onsemi",
+        "Manufacturer Part Number": "S2G",
+        "Location": "Aidetek Box 7",
+        "SubLocation": "D9",
+        "Image": "img/aidetek_d9.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "Analog Devices",
+        "Manufacturer Part Number": "TMP36GT9Z",
+        "Location": "Aidetek Box 7",
+        "SubLocation": "E9",
+        "Image": "img/aidetek_e9.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "Texas Instruments",
+        "Manufacturer Part Number": "SN65HVD1785D",
+        "Location": "Aidetek Box 7",
+        "SubLocation": "F9",
+        "Image": "img/aidetek_f9.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "Nexperia",
+        "Manufacturer Part Number": "74HCT4051D,118",
+        "Location": "Aidetek Box 7",
+        "SubLocation": "G9",
+        "Image": "img/aidetek_g9.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "Texas Instruments",
+        "Manufacturer Part Number": "CD74HCT4066M96",
+        "Location": "Aidetek Box 7",
+        "SubLocation": "H9",
+        "Image": "img/aidetek_h9.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "onsemi",
+        "Manufacturer Part Number": "2N5458 PBFREE",
+        "Location": "Aidetek Box 7",
+        "SubLocation": "I9",
+        "Image": "img/aidetek_i9.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "Analog Devices (Linear Technology)",
+        "Manufacturer Part Number": "LTC2857CMS8-1",
+        "Location": "Aidetek Box 7",
+        "SubLocation": "J9",
+        "Image": "img/aidetek_j9.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "Analog Devices (Linear Technology)",
+        "Manufacturer Part Number": "LT3751EFE#PBF",
+        "Location": "Aidetek Box 7",
+        "SubLocation": "K9",
+        "Image": "img/aidetek_k9.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "Texas Instruments",
+        "Manufacturer Part Number": "CD4017BNSR",
+        "Location": "Aidetek Box 7",
+        "SubLocation": "L9",
+        "Image": "img/aidetek_l9.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "STMicroelectronics",
+        "Manufacturer Part Number": "TDA7540AD",
+        "Location": "Aidetek Box 7",
+        "SubLocation": "A10",
+        "Image": "img/aidetek_a10.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "Allegro MicroSystems",
+        "Manufacturer Part Number": "A2982SLWTR-T",
+        "Location": "Aidetek Box 7",
+        "SubLocation": "B10",
+        "Image": "img/aidetek_b10.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "NXP Semiconductors",
+        "Manufacturer Part Number": "TDA8922B",
+        "Location": "Aidetek Box 7",
+        "SubLocation": "C10",
+        "Image": "img/aidetek_c10.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "Texas Instruments",
+        "Manufacturer Part Number": "THVD1420DR",
+        "Location": "Aidetek Box 7",
+        "SubLocation": "D10",
+        "Image": "img/aidetek_d10.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "Renesas Electronics",
+        "Manufacturer Part Number": "HIN202CBN",
+        "Location": "Aidetek Box 7",
+        "SubLocation": "E10",
+        "Image": "img/aidetek_e10.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "Texas Instruments",
+        "Manufacturer Part Number": "TPS62932DRLR",
+        "Location": "Aidetek Box 7",
+        "SubLocation": "F10",
+        "Image": "img/aidetek_f10.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "Microchip Technology",
+        "Manufacturer Part Number": "PIC16F15323T-I/ST",
+        "Location": "Aidetek Box 7",
+        "SubLocation": "G10",
+        "Image": "img/aidetek_g10.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "Diodes Incorporated",
+        "Manufacturer Part Number": "DMP3099L-7",
+        "Location": "Aidetek Box 7",
+        "SubLocation": "H10",
+        "Image": "img/aidetek_h10.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "Microchip Technology",
+        "Manufacturer Part Number": "PIC18F56Q71-I/PT",
+        "Location": "Aidetek Box 7",
+        "SubLocation": "I10",
+        "Image": "img/aidetek_i10.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "Nexperia",
+        "Manufacturer Part Number": "PMEG2010AEBF",
+        "Location": "Aidetek Box 7",
+        "SubLocation": "J10",
+        "Image": "img/aidetek_j10.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "Littelfuse",
+        "Manufacturer Part Number": "1.5SMC550CA",
+        "Location": "Aidetek Box 7",
+        "SubLocation": "K10",
+        "Image": "img/aidetek_k10.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "Texas Instruments",
+        "Manufacturer Part Number": "TPS62933DRLR",
+        "Location": "Aidetek Box 7",
+        "SubLocation": "L10",
+        "Image": "img/aidetek_l10.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "Texas Instruments",
+        "Manufacturer Part Number": "OPA836IDBVR",
+        "Location": "Aidetek Box 7",
+        "SubLocation": "A11",
+        "Image": "img/aidetek_a11.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "Diodes Incorporated",
+        "Manufacturer Part Number": "MMBT2222AT-7-F",
+        "Location": "Aidetek Box 7",
+        "SubLocation": "B11",
+        "Image": "img/aidetek_b11.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "Texas Instruments",
+        "Manufacturer Part Number": "TLV9002QDGKRQ1",
+        "Location": "Aidetek Box 7",
+        "SubLocation": "C11",
+        "Image": "img/aidetek_c11.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "Texas Instruments",
+        "Manufacturer Part Number": "LMV7239M7X/NOPB",
+        "Location": "Aidetek Box 7",
+        "SubLocation": "D11",
+        "Image": "img/aidetek_d11.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "Texas Instruments",
+        "Manufacturer Part Number": "OPA659IDBVT",
+        "Location": "Aidetek Box 7",
+        "SubLocation": "E11",
+        "Image": "img/aidetek_e11.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "JST",
+        "Manufacturer Part Number": "S2B-XH-A",
+        "Location": "Aidetek Box 7",
+        "SubLocation": "F11",
+        "Image": "img/aidetek_f11.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "Texas Instruments",
+        "Manufacturer Part Number": "LM7332MMX/NOPB",
+        "Location": "Aidetek Box 7",
+        "SubLocation": "G11",
+        "Image": "img/aidetek_g11.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "Lite-On",
+        "Manufacturer Part Number": "LTST-C190KGKT",
+        "Location": "Aidetek Box 7",
+        "SubLocation": "H11",
+        "Image": "img/aidetek_h11.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "Lite-On",
+        "Manufacturer Part Number": "LTST-C190KRKT",
+        "Location": "Aidetek Box 7",
+        "SubLocation": "I11",
+        "Image": "img/aidetek_i11.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "Analog Devices",
+        "Manufacturer Part Number": "AD8129ARZ",
+        "Location": "Aidetek Box 7",
+        "SubLocation": "J11",
+        "Image": "img/aidetek_j11.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "Analog Devices",
+        "Manufacturer Part Number": "AD8130ARZ-REEL",
+        "Location": "Aidetek Box 7",
+        "SubLocation": "K11",
+        "Image": "img/aidetek_k11.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "Texas Instruments",
+        "Manufacturer Part Number": "TL431BIDBZR",
+        "Location": "Aidetek Box 7",
+        "SubLocation": "L11",
+        "Image": "img/aidetek_l11.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "Texas Instruments",
+        "Manufacturer Part Number": "THS7530PWPR",
+        "Location": "Aidetek Box 7",
+        "SubLocation": "A12",
+        "Image": "img/aidetek_a12.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "STMicroelectronics",
+        "Manufacturer Part Number": "LM317G",
+        "Location": "Aidetek Box 7",
+        "SubLocation": "B12",
+        "Image": "img/aidetek_b12.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "Texas Instruments",
+        "Manufacturer Part Number": "INA225AIDGKR",
+        "Location": "Aidetek Box 7",
+        "SubLocation": "C12",
+        "Image": "img/aidetek_c12.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "Texas Instruments",
+        "Manufacturer Part Number": "LMV342IDGKR",
+        "Location": "Aidetek Box 7",
+        "SubLocation": "D12",
+        "Image": "img/aidetek_d12.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "Texas Instruments",
+        "Manufacturer Part Number": "TPS7A3901DSCR",
+        "Location": "Aidetek Box 7",
+        "SubLocation": "E12",
+        "Image": "img/aidetek_e12.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "Texas Instruments",
+        "Manufacturer Part Number": "LM27761DSGR",
+        "Location": "Aidetek Box 7",
+        "SubLocation": "F12",
+        "Image": "img/aidetek_f12.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "Microchip Technology",
+        "Manufacturer Part Number": "MCP73831T-2ACI/OT",
+        "Location": "Aidetek Box 7",
+        "SubLocation": "G12",
+        "Image": "img/aidetek_g12.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "Texas Instruments",
+        "Manufacturer Part Number": "LMH6609MFX/NOPB",
+        "Location": "Aidetek Box 7",
+        "SubLocation": "H12",
+        "Image": "img/aidetek_h12.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "Texas Instruments",
+        "Manufacturer Part Number": "SN74AHCT1G125DCKR",
+        "Location": "Aidetek Box 7",
+        "SubLocation": "I12",
+        "Image": "img/aidetek_i12.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "Texas Instruments",
+        "Manufacturer Part Number": "LP5912-3.3DRVR",
+        "Location": "Aidetek Box 7",
+        "SubLocation": "J12",
+        "Image": "img/aidetek_j12.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "Microchip Technology",
+        "Manufacturer Part Number": "MCP4725A0T-E/CH",
+        "Location": "Aidetek Box 7",
+        "SubLocation": "K12",
+        "Image": "img/aidetek_k12.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "Texas Instruments",
+        "Manufacturer Part Number": "PCA9306DQER",
+        "Location": "Aidetek Box 7",
+        "SubLocation": "L12",
+        "Image": "img/aidetek_l12.PNG",
+        "Description": "",
+        "Datasheet": ""
+    }
+]

@@ -1,0 +1,1442 @@
+[
+    {
+        "Name": "",
+        "Manufacturer": "Microchip Technology",
+        "Manufacturer Part Number": "MCP6561T-E/LT",
+        "Location": "Aidetek Box 6",
+        "SubLocation": "A1",
+        "Image": "img/aidetek_a1.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "onsemi",
+        "Manufacturer Part Number": "NC7ST08M5X",
+        "Location": "Aidetek Box 6",
+        "SubLocation": "B1",
+        "Image": "img/aidetek_b1.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "Micro Commercial Components (MCC)",
+        "Manufacturer Part Number": "MB6S",
+        "Location": "Aidetek Box 6",
+        "SubLocation": "C1",
+        "Image": "img/aidetek_c1.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "onsemi",
+        "Manufacturer Part Number": "NC7SZ08P5X",
+        "Location": "Aidetek Box 6",
+        "SubLocation": "D1",
+        "Image": "img/aidetek_d1.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "onsemi",
+        "Manufacturer Part Number": "LM311DR2G",
+        "Location": "Aidetek Box 6",
+        "SubLocation": "E1",
+        "Image": "img/aidetek_e1.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "Analog Devices",
+        "Manufacturer Part Number": "ADCMP354YKSZ-REEL7",
+        "Location": "Aidetek Box 6",
+        "SubLocation": "F1",
+        "Image": "img/aidetek_f1.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "TE Connectivity",
+        "Manufacturer Part Number": "RST 400-BULK",
+        "Location": "Aidetek Box 6",
+        "SubLocation": "G1",
+        "Image": "img/aidetek_g1.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "onsemi",
+        "Manufacturer Part Number": "74AC20SCX",
+        "Location": "Aidetek Box 6",
+        "SubLocation": "H1",
+        "Image": "img/aidetek_h1.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "Microchip Technology",
+        "Manufacturer Part Number": "MCP9700-E/LT",
+        "Location": "Aidetek Box 6",
+        "SubLocation": "I1",
+        "Image": "img/aidetek_i1.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "onsemi",
+        "Manufacturer Part Number": "NC7SZ02P5X",
+        "Location": "Aidetek Box 6",
+        "SubLocation": "J1",
+        "Image": "img/aidetek_j1.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "Texas Instruments",
+        "Manufacturer Part Number": "LM211DR",
+        "Location": "Aidetek Box 6",
+        "SubLocation": "K1",
+        "Image": "img/aidetek_k1.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "Micro Commercial Components (MCC)",
+        "Manufacturer Part Number": "GS1M-TP",
+        "Location": "Aidetek Box 6",
+        "SubLocation": "L1",
+        "Image": "img/aidetek_l1.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "Taiyo Yuden",
+        "Manufacturer Part Number": "TMK107BJ104KA-T",
+        "Location": "Aidetek Box 6",
+        "SubLocation": "A2",
+        "Image": "img/aidetek_a2.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "Rohm Semiconductor",
+        "Manufacturer Part Number": "MCR10EZPJ202",
+        "Location": "Aidetek Box 6",
+        "SubLocation": "B2",
+        "Image": "img/aidetek_b2.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "Rohm Semiconductor",
+        "Manufacturer Part Number": "MCR10EZPF4993",
+        "Location": "Aidetek Box 6",
+        "SubLocation": "C2",
+        "Image": "img/aidetek_c2.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "Rohm Semiconductor",
+        "Manufacturer Part Number": "MCR10EZPJ113",
+        "Location": "Aidetek Box 6",
+        "SubLocation": "D2",
+        "Image": "img/aidetek_d2.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "Rohm Semiconductor",
+        "Manufacturer Part Number": "MCR10EZPF1652",
+        "Location": "Aidetek Box 6",
+        "SubLocation": "E2",
+        "Image": "img/aidetek_e2.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "Rohm Semiconductor",
+        "Manufacturer Part Number": "MCR10EZPJ102",
+        "Location": "Aidetek Box 6",
+        "SubLocation": "F2",
+        "Image": "img/aidetek_f2.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "Panasonic",
+        "Manufacturer Part Number": "ECJ-2YB1E184K",
+        "Location": "Aidetek Box 6",
+        "SubLocation": "G2",
+        "Image": "img/aidetek_g2.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "Vishay",
+        "Manufacturer Part Number": "TFPT0603L1500FV",
+        "Location": "Aidetek Box 6",
+        "SubLocation": "H2",
+        "Image": "img/aidetek_h2.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "Rohm Semiconductor",
+        "Manufacturer Part Number": "MCR10EZPF1400",
+        "Location": "Aidetek Box 6",
+        "SubLocation": "I2",
+        "Image": "img/aidetek_i2.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "Rohm Semiconductor",
+        "Manufacturer Part Number": "MCR10EZPF4990",
+        "Location": "Aidetek Box 6",
+        "SubLocation": "J2",
+        "Image": "img/aidetek_j2.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "Panasonic",
+        "Manufacturer Part Number": "AVE206M16B12T-F",
+        "Location": "Aidetek Box 6",
+        "SubLocation": "K2",
+        "Image": "img/aidetek_k2.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "Rohm Semiconductor",
+        "Manufacturer Part Number": "MCR10EZPJ271",
+        "Location": "Aidetek Box 6",
+        "SubLocation": "L2",
+        "Image": "img/aidetek_l2.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "Susumu",
+        "Manufacturer Part Number": "RR0510P-9091-D",
+        "Location": "Aidetek Box 6",
+        "SubLocation": "A3",
+        "Image": "img/aidetek_a3.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "Panasonic",
+        "Manufacturer Part Number": "EDJ-2VC1H151J",
+        "Location": "Aidetek Box 6",
+        "SubLocation": "B3",
+        "Image": "img/aidetek_b3.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "Panasonic",
+        "Manufacturer Part Number": "ECJ-2VC1H080D",
+        "Location": "Aidetek Box 6",
+        "SubLocation": "C3",
+        "Image": "img/aidetek_c3.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "Panasonic",
+        "Manufacturer Part Number": "ECJ-2VC1H102J",
+        "Location": "Aidetek Box 6",
+        "SubLocation": "D3",
+        "Image": "img/aidetek_d3.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "Panasonic",
+        "Manufacturer Part Number": "ECJ-2VC1H330J",
+        "Location": "Aidetek Box 6",
+        "SubLocation": "E3",
+        "Image": "img/aidetek_e3.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "Panasonic",
+        "Manufacturer Part Number": "ECJ-2VC1H1R5C",
+        "Location": "Aidetek Box 6",
+        "SubLocation": "F3",
+        "Image": "img/aidetek_f3.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "Panasonic",
+        "Manufacturer Part Number": "ECJ-2VC1H221J",
+        "Location": "Aidetek Box 6",
+        "SubLocation": "G3",
+        "Image": "img/aidetek_g3.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "Panasonic",
+        "Manufacturer Part Number": "ECJ-2VC1H561J",
+        "Location": "Aidetek Box 6",
+        "SubLocation": "H3",
+        "Image": "img/aidetek_h3.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "Panasonic",
+        "Manufacturer Part Number": "ECJ-2VC1H0R5C",
+        "Location": "Aidetek Box 6",
+        "SubLocation": "I3",
+        "Image": "img/aidetek_i3.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "Panasonic",
+        "Manufacturer Part Number": "ECJ-2VC1H471J",
+        "Location": "Aidetek Box 6",
+        "SubLocation": "J3",
+        "Image": "img/aidetek_j3.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "Panasonic",
+        "Manufacturer Part Number": "ECJ-2VC1H101J",
+        "Location": "Aidetek Box 6",
+        "SubLocation": "K3",
+        "Image": "img/aidetek_k3.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "Panasonic",
+        "Manufacturer Part Number": "ECJ-2VC1H030C",
+        "Location": "Aidetek Box 6",
+        "SubLocation": "L3",
+        "Image": "img/aidetek_l3.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "Panasonic",
+        "Manufacturer Part Number": "ECJ-2VC1H050C",
+        "Location": "Aidetek Box 6",
+        "SubLocation": "A4",
+        "Image": "img/aidetek_a4.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "Panasonic",
+        "Manufacturer Part Number": "ECJ-2VC1H680J",
+        "Location": "Aidetek Box 6",
+        "SubLocation": "B4",
+        "Image": "img/aidetek_b4.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "Panasonic",
+        "Manufacturer Part Number": "ECJ-2VC1H020C",
+        "Location": "Aidetek Box 6",
+        "SubLocation": "C4",
+        "Image": "img/aidetek_c4.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "Panasonic",
+        "Manufacturer Part Number": "ECJ-2VC1H391J",
+        "Location": "Aidetek Box 6",
+        "SubLocation": "D4",
+        "Image": "img/aidetek_d4.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "Panasonic",
+        "Manufacturer Part Number": "ECJ-2VC1H070D",
+        "Location": "Aidetek Box 6",
+        "SubLocation": "E4",
+        "Image": "img/aidetek_e4.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "Panasonic",
+        "Manufacturer Part Number": "ECJ-2VC1H821J",
+        "Location": "Aidetek Box 6",
+        "SubLocation": "F4",
+        "Image": "img/aidetek_f4.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "Panasonic",
+        "Manufacturer Part Number": "ECJ-2YB1E154K",
+        "Location": "Aidetek Box 6",
+        "SubLocation": "G4",
+        "Image": "img/aidetek_g4.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "Panasonic",
+        "Manufacturer Part Number": "ECJ-2VB1H272K",
+        "Location": "Aidetek Box 6",
+        "SubLocation": "H4",
+        "Image": "img/aidetek_h4.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "Panasonic",
+        "Manufacturer Part Number": "ECJ-2VB1H223K",
+        "Location": "Aidetek Box 6",
+        "SubLocation": "I4",
+        "Image": "img/aidetek_i4.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "Panasonic",
+        "Manufacturer Part Number": "ECJ-2VB1H123K",
+        "Location": "Aidetek Box 6",
+        "SubLocation": "J4",
+        "Image": "img/aidetek_j4.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "Panasonic",
+        "Manufacturer Part Number": "ECJ-2VB1H472K",
+        "Location": "Aidetek Box 6",
+        "SubLocation": "K4",
+        "Image": "img/aidetek_k4.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "Panasonic",
+        "Manufacturer Part Number": "ECJ-2FB1H473K",
+        "Location": "Aidetek Box 6",
+        "SubLocation": "L4",
+        "Image": "img/aidetek_l4.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "Panasonic",
+        "Manufacturer Part Number": "ECJ-2VB1H562K",
+        "Location": "Aidetek Box 6",
+        "SubLocation": "A5",
+        "Image": "img/aidetek_a5.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "Panasonic",
+        "Manufacturer Part Number": "ECJ-2VB1H102K",
+        "Location": "Aidetek Box 6",
+        "SubLocation": "B5",
+        "Image": "img/aidetek_b5.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "Panasonic",
+        "Manufacturer Part Number": "ECJ-2YB1E224K",
+        "Location": "Aidetek Box 6",
+        "SubLocation": "C5",
+        "Image": "img/aidetek_c5.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "Panasonic",
+        "Manufacturer Part Number": "ECJ-2VB1H333K",
+        "Location": "Aidetek Box 6",
+        "SubLocation": "D5",
+        "Image": "img/aidetek_d5.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "Panasonic",
+        "Manufacturer Part Number": "ECJ-2VB1H152K",
+        "Location": "Aidetek Box 6",
+        "SubLocation": "E5",
+        "Image": "img/aidetek_e5.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "Panasonic",
+        "Manufacturer Part Number": "ECJ-2VB1H332K",
+        "Location": "Aidetek Box 6",
+        "SubLocation": "F5",
+        "Image": "img/aidetek_f5.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "Panasonic",
+        "Manufacturer Part Number": "ECJ-2VB1H273K",
+        "Location": "Aidetek Box 6",
+        "SubLocation": "G5",
+        "Image": "img/aidetek_g5.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "Panasonic",
+        "Manufacturer Part Number": "ECJ-2VB1H682K",
+        "Location": "Aidetek Box 6",
+        "SubLocation": "H5",
+        "Image": "img/aidetek_h5.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "Panasonic",
+        "Manufacturer Part Number": "ECJ-2VB1H822K",
+        "Location": "Aidetek Box 6",
+        "SubLocation": "I5",
+        "Image": "img/aidetek_i5.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "Panasonic",
+        "Manufacturer Part Number": "ECJ-2VB1H392K",
+        "Location": "Aidetek Box 6",
+        "SubLocation": "J5",
+        "Image": "img/aidetek_j5.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "Panasonic",
+        "Manufacturer Part Number": "ECJ-2FB1C474K",
+        "Location": "Aidetek Box 6",
+        "SubLocation": "K5",
+        "Image": "img/aidetek_k5.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "Panasonic",
+        "Manufacturer Part Number": "ECJ-2VB1H103K",
+        "Location": "Aidetek Box 6",
+        "SubLocation": "L5",
+        "Image": "img/aidetek_l5.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "Panasonic",
+        "Manufacturer Part Number": "ECJ-2YB1H823K",
+        "Location": "Aidetek Box 6",
+        "SubLocation": "A6",
+        "Image": "img/aidetek_a6.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "Panasonic",
+        "Manufacturer Part Number": "ECJ-2VB1H153K",
+        "Location": "Aidetek Box 6",
+        "SubLocation": "B6",
+        "Image": "img/aidetek_b6.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "Panasonic",
+        "Manufacturer Part Number": "ECJ-2VB1H393K",
+        "Location": "Aidetek Box 6",
+        "SubLocation": "C6",
+        "Image": "img/aidetek_c6.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "Panasonic",
+        "Manufacturer Part Number": "ECJ-2FB1H683K",
+        "Location": "Aidetek Box 6",
+        "SubLocation": "D6",
+        "Image": "img/aidetek_d6.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "Panasonic",
+        "Manufacturer Part Number": "ECJ-2VB1H183K",
+        "Location": "Aidetek Box 6",
+        "SubLocation": "E6",
+        "Image": "img/aidetek_e6.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "Panasonic",
+        "Manufacturer Part Number": "ECJ-2VB1H222K",
+        "Location": "Aidetek Box 6",
+        "SubLocation": "F6",
+        "Image": "img/aidetek_f6.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "Panasonic",
+        "Manufacturer Part Number": "ECJ-2VB1H182K",
+        "Location": "Aidetek Box 6",
+        "SubLocation": "G6",
+        "Image": "img/aidetek_g6.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "Panasonic",
+        "Manufacturer Part Number": "ECJ-2VB1H122K",
+        "Location": "Aidetek Box 6",
+        "SubLocation": "H6",
+        "Image": "img/aidetek_h6.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "Panasonic",
+        "Manufacturer Part Number": "ECJ-2FB1H563K",
+        "Location": "Aidetek Box 6",
+        "SubLocation": "I6",
+        "Image": "img/aidetek_i6.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "Panasonic",
+        "Manufacturer Part Number": "ECJ-2YB1H104K",
+        "Location": "Aidetek Box 6",
+        "SubLocation": "J6",
+        "Image": "img/aidetek_j6.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "Panasonic",
+        "Manufacturer Part Number": "ECJ-2YB1E124K",
+        "Location": "Aidetek Box 6",
+        "SubLocation": "K6",
+        "Image": "img/aidetek_k6.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "Susumu",
+        "Manufacturer Part Number": "RR0510P-102-D",
+        "Location": "Aidetek Box 6",
+        "SubLocation": "L6",
+        "Image": "img/aidetek_l6.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "Panasonic",
+        "Manufacturer Part Number": "ECJ-2VC1H010C",
+        "Location": "Aidetek Box 6",
+        "SubLocation": "A7",
+        "Image": "img/aidetek_a7.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "Panasonic",
+        "Manufacturer Part Number": "ECJ-2VC1H681J",
+        "Location": "Aidetek Box 6",
+        "SubLocation": "B7",
+        "Image": "img/aidetek_b7.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "Panasonic",
+        "Manufacturer Part Number": "ECJ-2VC1H100D",
+        "Location": "Aidetek Box 6",
+        "SubLocation": "C7",
+        "Image": "img/aidetek_c7.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "Panasonic",
+        "Manufacturer Part Number": "ECJ-2VC1H331J",
+        "Location": "Aidetek Box 6",
+        "SubLocation": "D7",
+        "Image": "img/aidetek_d7.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "Taiyo Yuden",
+        "Manufacturer Part Number": "TMK107BJ474KA-T",
+        "Location": "Aidetek Box 6",
+        "SubLocation": "E7",
+        "Image": "img/aidetek_e7.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "Panasonic",
+        "Manufacturer Part Number": "ECJ-2VC1H090D",
+        "Location": "Aidetek Box 6",
+        "SubLocation": "F7",
+        "Image": "img/aidetek_f7.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "Panasonic",
+        "Manufacturer Part Number": "ECJ-2VC1H040C",
+        "Location": "Aidetek Box 6",
+        "SubLocation": "G7",
+        "Image": "img/aidetek_g7.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "Panasonic",
+        "Manufacturer Part Number": "ECJ-2VC1H181J",
+        "Location": "Aidetek Box 6",
+        "SubLocation": "H7",
+        "Image": "img/aidetek_h7.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "Panasonic",
+        "Manufacturer Part Number": "ECJ-2VC1H121J",
+        "Location": "Aidetek Box 6",
+        "SubLocation": "I7",
+        "Image": "img/aidetek_i7.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "Panasonic",
+        "Manufacturer Part Number": "ECJ-2VC1H060D",
+        "Location": "Aidetek Box 6",
+        "SubLocation": "J7",
+        "Image": "img/aidetek_j7.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "Panasonic",
+        "Manufacturer Part Number": "ECJ-2VC1H271J",
+        "Location": "Aidetek Box 6",
+        "SubLocation": "K7",
+        "Image": "img/aidetek_k7.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "Panasonic",
+        "Manufacturer Part Number": "ECJ-2VC1H470J",
+        "Location": "Aidetek Box 6",
+        "SubLocation": "L7",
+        "Image": "img/aidetek_l7.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "Panasonic",
+        "Manufacturer Part Number": "ECJ-2VC1H150J",
+        "Location": "Aidetek Box 6",
+        "SubLocation": "A8",
+        "Image": "img/aidetek_a8.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "Texas Instruments",
+        "Manufacturer Part Number": "OPA344NA",
+        "Location": "Aidetek Box 6",
+        "SubLocation": "B8",
+        "Image": "img/aidetek_b8.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "Yageo",
+        "Manufacturer Part Number": "RC0402FR-0747KL",
+        "Location": "Aidetek Box 6",
+        "SubLocation": "C8",
+        "Image": "img/aidetek_c8.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "Kemet",
+        "Manufacturer Part Number": "C0402C272K5RACAUTO",
+        "Location": "Aidetek Box 6",
+        "SubLocation": "D8",
+        "Image": "img/aidetek_d8.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "Yageo",
+        "Manufacturer Part Number": "AC0402FR-075K11L",
+        "Location": "Aidetek Box 6",
+        "SubLocation": "E8",
+        "Image": "img/aidetek_e8.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "Murata",
+        "Manufacturer Part Number": "BLM15PX471SN1D",
+        "Location": "Aidetek Box 6",
+        "SubLocation": "F8",
+        "Image": "img/aidetek_f8.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "AVX (KYOCERA)",
+        "Manufacturer Part Number": "0402YD475MAT2A",
+        "Location": "Aidetek Box 6",
+        "SubLocation": "G8",
+        "Image": "img/aidetek_g8.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "Vishay",
+        "Manufacturer Part Number": "CRGCQ0402F150R",
+        "Location": "Aidetek Box 6",
+        "SubLocation": "H8",
+        "Image": "img/aidetek_h8.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "Yageo",
+        "Manufacturer Part Number": "CC0402CRNP09BN7R5",
+        "Location": "Aidetek Box 6",
+        "SubLocation": "I8",
+        "Image": "img/aidetek_i8.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "Yageo",
+        "Manufacturer Part Number": "RC0402JR-070RP",
+        "Location": "Aidetek Box 6",
+        "SubLocation": "J8",
+        "Image": "img/aidetek_j8.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "Stackpole Electronics",
+        "Manufacturer Part Number": "RMCF0402JT470K",
+        "Location": "Aidetek Box 6",
+        "SubLocation": "K8",
+        "Image": "img/aidetek_k8.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "Stackpole Electronics",
+        "Manufacturer Part Number": "CSRF1206FT10L0",
+        "Location": "Aidetek Box 6",
+        "SubLocation": "L8",
+        "Image": "img/aidetek_l8.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "Samsung Electro-Mechanics",
+        "Manufacturer Part Number": "CL05A106MP5NUNC",
+        "Location": "Aidetek Box 6",
+        "SubLocation": "A9",
+        "Image": "img/aidetek_a9.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "Stackpole Electronics",
+        "Manufacturer Part Number": "RMCF0402FT22K0",
+        "Location": "Aidetek Box 6",
+        "SubLocation": "B9",
+        "Image": "img/aidetek_b9.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "AVX (KYOCERA)",
+        "Manufacturer Part Number": "04026d475KAT2A",
+        "Location": "Aidetek Box 6",
+        "SubLocation": "C9",
+        "Image": "img/aidetek_c9.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "Yageo",
+        "Manufacturer Part Number": "RC0402FT-0749R9L",
+        "Location": "Aidetek Box 6",
+        "SubLocation": "D9",
+        "Image": "img/aidetek_d9.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "Walsin Technology",
+        "Manufacturer Part Number": "0402N150J250CT",
+        "Location": "Aidetek Box 6",
+        "SubLocation": "E9",
+        "Image": "img/aidetek_e9.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "Stackpole Electronics",
+        "Manufacturer Part Number": "RMCF0402FT22K0",
+        "Location": "Aidetek Box 6",
+        "SubLocation": "F9",
+        "Image": "img/aidetek_f9.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "GCT (Global Connector Technology)",
+        "Manufacturer Part Number": "USB4110-GF-A",
+        "Location": "Aidetek Box 6",
+        "SubLocation": "G9",
+        "Image": "img/aidetek_g9.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "Stackpole Electronics",
+        "Manufacturer Part Number": "RMCF0402FT5K11",
+        "Location": "Aidetek Box 6",
+        "SubLocation": "H9",
+        "Image": "img/aidetek_h9.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "AVX (KYOCERA)",
+        "Manufacturer Part Number": "0402YD475MAT2A",
+        "Location": "Aidetek Box 6",
+        "SubLocation": "I9",
+        "Image": "img/aidetek_i9.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "C&K",
+        "Manufacturer Part Number": "PTS525SM15SMTR2 LFS",
+        "Location": "Aidetek Box 6",
+        "SubLocation": "J9",
+        "Image": "img/aidetek_j9.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "Stackpole Electronics",
+        "Manufacturer Part Number": "RMCF0402FT1K18",
+        "Location": "Aidetek Box 6",
+        "SubLocation": "K9",
+        "Image": "img/aidetek_k9.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "Stackpole Electronics",
+        "Manufacturer Part Number": "RMCF0402FT1K13",
+        "Location": "Aidetek Box 6",
+        "SubLocation": "L9",
+        "Image": "img/aidetek_l9.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "Yageo",
+        "Manufacturer Part Number": "RC0402JR-0775KL",
+        "Location": "Aidetek Box 6",
+        "SubLocation": "A10",
+        "Image": "img/aidetek_a10.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "Stackpole Electronics",
+        "Manufacturer Part Number": "RMCF0402FT300K",
+        "Location": "Aidetek Box 6",
+        "SubLocation": "B10",
+        "Image": "img/aidetek_b10.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "Vishay",
+        "Manufacturer Part Number": "CRGCQ0402F560R",
+        "Location": "Aidetek Box 6",
+        "SubLocation": "C10",
+        "Image": "img/aidetek_c10.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "Samsung Electro-Mechanics",
+        "Manufacturer Part Number": "CL05A105MQ5NNNC",
+        "Location": "Aidetek Box 6",
+        "SubLocation": "D10",
+        "Image": "img/aidetek_d10.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "Pulse Electronics",
+        "Manufacturer Part Number": "PE-1008CD391GTT",
+        "Location": "Aidetek Box 6",
+        "SubLocation": "E10",
+        "Image": "img/aidetek_e10.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "Walsin Technology",
+        "Manufacturer Part Number": "0402B333K500CT",
+        "Location": "Aidetek Box 6",
+        "SubLocation": "F10",
+        "Image": "img/aidetek_f10.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "Murata",
+        "Manufacturer Part Number": "LQW15AN7N5G00D",
+        "Location": "Aidetek Box 6",
+        "SubLocation": "G10",
+        "Image": "img/aidetek_g10.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "Yageo",
+        "Manufacturer Part Number": "RC0603FR-075K62L",
+        "Location": "Aidetek Box 6",
+        "SubLocation": "H10",
+        "Image": "img/aidetek_h10.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "Yageo",
+        "Manufacturer Part Number": "RC0603FR-074K75L",
+        "Location": "Aidetek Box 6",
+        "SubLocation": "I10",
+        "Image": "img/aidetek_i10.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "Silicon Laboratories",
+        "Manufacturer Part Number": "CP2102N-A02-GQFN20",
+        "Location": "Aidetek Box 6",
+        "SubLocation": "J10",
+        "Image": "img/aidetek_j10.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "Stackpole Electronics",
+        "Manufacturer Part Number": "RMCF0402JT27R0",
+        "Location": "Aidetek Box 6",
+        "SubLocation": "K10",
+        "Image": "img/aidetek_k10.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "Walsin Technology",
+        "Manufacturer Part Number": "0402N470J500CT",
+        "Location": "Aidetek Box 6",
+        "SubLocation": "L10",
+        "Image": "img/aidetek_l10.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "Yageo",
+        "Manufacturer Part Number": "RC0402FR-0747KL",
+        "Location": "Aidetek Box 6",
+        "SubLocation": "A11",
+        "Image": "img/aidetek_a11.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "Stackpole Electronics",
+        "Manufacturer Part Number": "RMCF0603JT180K",
+        "Location": "Aidetek Box 6",
+        "SubLocation": "B11",
+        "Image": "img/aidetek_b11.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "Yageo",
+        "Manufacturer Part Number": "RC0603JR-070RL",
+        "Location": "Aidetek Box 6",
+        "SubLocation": "C11",
+        "Image": "img/aidetek_c11.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "Analog Devices",
+        "Manufacturer Part Number": "AD8022ARZ-REEL7",
+        "Location": "Aidetek Box 6",
+        "SubLocation": "D11",
+        "Image": "img/aidetek_d11.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "Murata",
+        "Manufacturer Part Number": "LQG15HN1N8S02D",
+        "Location": "Aidetek Box 6",
+        "SubLocation": "E11",
+        "Image": "img/aidetek_e11.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "Microchip Technology",
+        "Manufacturer Part Number": "PIC18F16Q40-I/REB",
+        "Location": "Aidetek Box 6",
+        "SubLocation": "F11",
+        "Image": "img/aidetek_f11.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "Vishay",
+        "Manufacturer Part Number": "CBR04C399B5GAC",
+        "Location": "Aidetek Box 6",
+        "SubLocation": "G11",
+        "Image": "img/aidetek_g11.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "Panasonic",
+        "Manufacturer Part Number": "ERJ-2GEJ104X",
+        "Location": "Aidetek Box 6",
+        "SubLocation": "H11",
+        "Image": "img/aidetek_h11.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "Yageo",
+        "Manufacturer Part Number": "RC0603FR-072K2L",
+        "Location": "Aidetek Box 6",
+        "SubLocation": "I11",
+        "Image": "img/aidetek_i11.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "TDK",
+        "Manufacturer Part Number": "C1005X5R1V105K050BC",
+        "Location": "Aidetek Box 6",
+        "SubLocation": "J11",
+        "Image": "img/aidetek_j11.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "onsemi",
+        "Manufacturer Part Number": "MMBT3904LT1G",
+        "Location": "Aidetek Box 6",
+        "SubLocation": "K11",
+        "Image": "img/aidetek_k11.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "Stackpole Electronics",
+        "Manufacturer Part Number": "RMCF0603FT12K1",
+        "Location": "Aidetek Box 6",
+        "SubLocation": "L11",
+        "Image": "img/aidetek_l11.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "Yageo",
+        "Manufacturer Part Number": "RC0603FR-0747KL",
+        "Location": "Aidetek Box 6",
+        "SubLocation": "A12",
+        "Image": "img/aidetek_a12.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "Yageo",
+        "Manufacturer Part Number": "RC0603JR-070RL",
+        "Location": "Aidetek Box 6",
+        "SubLocation": "B12",
+        "Image": "img/aidetek_b12.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "Panasonic",
+        "Manufacturer Part Number": "EEE-2AA4R7UP",
+        "Location": "Aidetek Box 6",
+        "SubLocation": "C12",
+        "Image": "img/aidetek_c12.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "Yageo",
+        "Manufacturer Part Number": "RC0603FR-0756KL",
+        "Location": "Aidetek Box 6",
+        "SubLocation": "D12",
+        "Image": "img/aidetek_d12.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "Nexperia",
+        "Manufacturer Part Number": "74LVC08AD",
+        "Location": "Aidetek Box 6",
+        "SubLocation": "E12",
+        "Image": "img/aidetek_e12.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "Yageo",
+        "Manufacturer Part Number": "RC0603FR-071KL",
+        "Location": "Aidetek Box 6",
+        "SubLocation": "F12",
+        "Image": "img/aidetek_f12.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "Panasonic",
+        "Manufacturer Part Number": "ERA-6AEB104V",
+        "Location": "Aidetek Box 6",
+        "SubLocation": "G12",
+        "Image": "img/aidetek_g12.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "Stackpole Electronics",
+        "Manufacturer Part Number": "RMCF0603FT1M00",
+        "Location": "Aidetek Box 6",
+        "SubLocation": "H12",
+        "Image": "img/aidetek_h12.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "Yageo",
+        "Manufacturer Part Number": "CC0603ZRY5V9BB104",
+        "Location": "Aidetek Box 6",
+        "SubLocation": "I12",
+        "Image": "img/aidetek_i12.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "TDK",
+        "Manufacturer Part Number": "CGA4J3X7T2E104M125AE",
+        "Location": "Aidetek Box 6",
+        "SubLocation": "J12",
+        "Image": "img/aidetek_j12.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "Samsung Electro-Mechanics",
+        "Manufacturer Part Number": "CL21B105KBFNNNG",
+        "Location": "Aidetek Box 6",
+        "SubLocation": "K12",
+        "Image": "img/aidetek_k12.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "TDK",
+        "Manufacturer Part Number": "CVH160808-1R0M",
+        "Location": "Aidetek Box 6",
+        "SubLocation": "L12",
+        "Image": "img/aidetek_l12.PNG",
+        "Description": "",
+        "Datasheet": ""
+    }
+]

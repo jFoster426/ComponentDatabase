@@ -1,0 +1,482 @@
+[
+    {
+        "Name": "",
+        "Manufacturer": "Vishay",
+        "Manufacturer Part Number": "TPSV227M016R0075",
+        "Location": "Aidetek Box 3",
+        "SubLocation": "A1",
+        "Image": "img/aidetek_a1.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "TDK",
+        "Manufacturer Part Number": "B57213P309M301",
+        "Location": "Aidetek Box 3",
+        "SubLocation": "B1",
+        "Image": "img/aidetek_b1.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "Nexperia",
+        "Manufacturer Part Number": "PSMN5R5-60YS,115",
+        "Location": "Aidetek Box 3",
+        "SubLocation": "C1",
+        "Image": "img/aidetek_c1.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "onsemi",
+        "Manufacturer Part Number": "MOC3063",
+        "Location": "Aidetek Box 3",
+        "SubLocation": "D1",
+        "Image": "img/aidetek_d1.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "W\u00fcrth Elektronik",
+        "Manufacturer Part Number": "9774030360R",
+        "Location": "Aidetek Box 3",
+        "SubLocation": "E1",
+        "Image": "img/aidetek_e1.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "Amphenol",
+        "Manufacturer Part Number": "JS0204AP4-S",
+        "Location": "Aidetek Box 3",
+        "SubLocation": "F1",
+        "Image": "img/aidetek_f1.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "Molex",
+        "Manufacturer Part Number": "0039281023",
+        "Location": "Aidetek Box 3",
+        "SubLocation": "A2",
+        "Image": "img/aidetek_a2.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "CUI Devices",
+        "Manufacturer Part Number": "PJ-202AH",
+        "Location": "Aidetek Box 3",
+        "SubLocation": "B2",
+        "Image": "img/aidetek_b2.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "Texas Instruments",
+        "Manufacturer Part Number": "LMT86LPM",
+        "Location": "Aidetek Box 3",
+        "SubLocation": "C2",
+        "Image": "img/aidetek_c2.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "Central Semiconductor",
+        "Manufacturer Part Number": "2N3904-AP",
+        "Location": "Aidetek Box 3",
+        "SubLocation": "D2",
+        "Image": "img/aidetek_d2.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "Vishay",
+        "Manufacturer Part Number": "SUP57N20-33-E3",
+        "Location": "Aidetek Box 3",
+        "SubLocation": "E2",
+        "Image": "img/aidetek_e2.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "Espressif Systems",
+        "Manufacturer Part Number": "ESP-WROOM-02U (4MB)",
+        "Location": "Aidetek Box 3",
+        "SubLocation": "F2",
+        "Image": "img/aidetek_f2.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "W\u00fcrth Elektronik",
+        "Manufacturer Part Number": "760390014",
+        "Location": "Aidetek Box 3",
+        "SubLocation": "A3",
+        "Image": "img/aidetek_a3.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "Panasonic",
+        "Manufacturer Part Number": "EDK107M050A9MAA",
+        "Location": "Aidetek Box 3",
+        "SubLocation": "B3",
+        "Image": "img/aidetek_b3.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "Panasonic",
+        "Manufacturer Part Number": "EDK107M050A9MAA",
+        "Location": "Aidetek Box 3",
+        "SubLocation": "C3",
+        "Image": "img/aidetek_c3.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "Molex",
+        "Manufacturer Part Number": "43045-0212",
+        "Location": "Aidetek Box 3",
+        "SubLocation": "D3",
+        "Image": "img/aidetek_d3.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "Molex",
+        "Manufacturer Part Number": "5040510801",
+        "Location": "Aidetek Box 3",
+        "SubLocation": "E3",
+        "Image": "img/aidetek_e3.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "W\u00fcrth Elektronik",
+        "Manufacturer Part Number": "865080657018",
+        "Location": "Aidetek Box 3",
+        "SubLocation": "F3",
+        "Image": "img/aidetek_f3.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "Amphenol",
+        "Manufacturer Part Number": "20021121-00006C4LF",
+        "Location": "Aidetek Box 3",
+        "SubLocation": "A4",
+        "Image": "img/aidetek_a4.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "TE Connectivity",
+        "Manufacturer Part Number": "1-2307729-4",
+        "Location": "Aidetek Box 3",
+        "SubLocation": "B4",
+        "Image": "img/aidetek_b4.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "Molex",
+        "Manufacturer Part Number": "5040500891",
+        "Location": "Aidetek Box 3",
+        "SubLocation": "C4",
+        "Image": "img/aidetek_c4.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "Microchip Technology",
+        "Manufacturer Part Number": "MCP9701-E/TO",
+        "Location": "Aidetek Box 3",
+        "SubLocation": "D4",
+        "Image": "img/aidetek_d4.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "Molex",
+        "Manufacturer Part Number": "0022013047",
+        "Location": "Aidetek Box 3",
+        "SubLocation": "E4",
+        "Image": "img/aidetek_e4.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "Kingbright",
+        "Manufacturer Part Number": "LS03-13B12R3",
+        "Location": "Aidetek Box 3",
+        "SubLocation": "F4",
+        "Image": "img/aidetek_f4.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "STMicroelectronics",
+        "Manufacturer Part Number": "TIP31C",
+        "Location": "Aidetek Box 3",
+        "SubLocation": "A5",
+        "Image": "img/aidetek_a5.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "Grayhill",
+        "Manufacturer Part Number": "PB-12N23P-03Q",
+        "Location": "Aidetek Box 3",
+        "SubLocation": "B5",
+        "Image": "img/aidetek_b5.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "Texas Instruments",
+        "Manufacturer Part Number": "CD4515BM96",
+        "Location": "Aidetek Box 3",
+        "SubLocation": "C5",
+        "Image": "img/aidetek_c5.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "Molex",
+        "Manufacturer Part Number": "44914-0401",
+        "Location": "Aidetek Box 3",
+        "SubLocation": "D5",
+        "Image": "img/aidetek_d5.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "Central Semiconductor",
+        "Manufacturer Part Number": "2N3906-AP",
+        "Location": "Aidetek Box 3",
+        "SubLocation": "E5",
+        "Image": "img/aidetek_e5.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "STMicroelectronics",
+        "Manufacturer Part Number": "T1235T-8T",
+        "Location": "Aidetek Box 3",
+        "SubLocation": "F5",
+        "Image": "img/aidetek_f5.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "Infineon Technologies",
+        "Manufacturer Part Number": "IRF5305PBF",
+        "Location": "Aidetek Box 3",
+        "SubLocation": "A6",
+        "Image": "img/aidetek_a6.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "Infineon Technologies",
+        "Manufacturer Part Number": "IRLZ44NPBF",
+        "Location": "Aidetek Box 3",
+        "SubLocation": "B6",
+        "Image": "img/aidetek_b6.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "onsemi",
+        "Manufacturer Part Number": "KSP10BU",
+        "Location": "Aidetek Box 3",
+        "SubLocation": "C6",
+        "Image": "img/aidetek_c6.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "Microchip Technology",
+        "Manufacturer Part Number": "APT13003NZTR-G1",
+        "Location": "Aidetek Box 3",
+        "SubLocation": "D6",
+        "Image": "img/aidetek_d6.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "Microchip Technology",
+        "Manufacturer Part Number": "LM2576-3.3WU-TR",
+        "Location": "Aidetek Box 3",
+        "SubLocation": "E6",
+        "Image": "img/aidetek_e6.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "Molex",
+        "Manufacturer Part Number": "0050579310",
+        "Location": "Aidetek Box 3",
+        "SubLocation": "F6",
+        "Image": "img/aidetek_f6.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "W\u00fcrth Elektronik",
+        "Manufacturer Part Number": "7443330680",
+        "Location": "Aidetek Box 3",
+        "SubLocation": "A7",
+        "Image": "img/aidetek_a7.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "Molex",
+        "Manufacturer Part Number": "0430250400",
+        "Location": "Aidetek Box 3",
+        "SubLocation": "B7",
+        "Image": "img/aidetek_b7.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "Molex",
+        "Manufacturer Part Number": "0430250200",
+        "Location": "Aidetek Box 3",
+        "SubLocation": "C7",
+        "Image": "img/aidetek_c7.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "W\u00fcrth Elektronik",
+        "Manufacturer Part Number": "74477020",
+        "Location": "Aidetek Box 3",
+        "SubLocation": "D7",
+        "Image": "img/aidetek_d7.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "Amphenol",
+        "Manufacturer Part Number": "10112690-G03-07ULF",
+        "Location": "Aidetek Box 3",
+        "SubLocation": "E7",
+        "Image": "img/aidetek_e7.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "Bourns",
+        "Manufacturer Part Number": "PEC12R-4220F-N0024",
+        "Location": "Aidetek Box 3",
+        "SubLocation": "F7",
+        "Image": "img/aidetek_f7.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "C&K",
+        "Manufacturer Part Number": "100SP1T1B1M1QEH",
+        "Location": "Aidetek Box 3",
+        "SubLocation": "A8",
+        "Image": "img/aidetek_a8.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "Microchip Technology",
+        "Manufacturer Part Number": "AT32UC3A3256-ALUR",
+        "Location": "Aidetek Box 3",
+        "SubLocation": "B8",
+        "Image": "img/aidetek_b8.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "Kingbright",
+        "Manufacturer Part Number": "TC5050RGBF08-3CJH-AF53A",
+        "Location": "Aidetek Box 3",
+        "SubLocation": "C8",
+        "Image": "img/aidetek_c8.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "Kingbright",
+        "Manufacturer Part Number": "TC5050RGBF08-3CJH-AF53A",
+        "Location": "Aidetek Box 3",
+        "SubLocation": "D8",
+        "Image": "img/aidetek_d8.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "CUI Devices",
+        "Manufacturer Part Number": "SJ1-3525N",
+        "Location": "Aidetek Box 3",
+        "SubLocation": "E8",
+        "Image": "img/aidetek_e8.PNG",
+        "Description": "",
+        "Datasheet": ""
+    },
+    {
+        "Name": "",
+        "Manufacturer": "Molex",
+        "Manufacturer Part Number": "39-01-2020",
+        "Location": "Aidetek Box 3",
+        "SubLocation": "F8",
+        "Image": "img/aidetek_f8.PNG",
+        "Description": "",
+        "Datasheet": ""
+    }
+]
